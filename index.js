@@ -18,7 +18,7 @@ store = {
     15: 'empanadas.jpg',
     16: 'asado.jpg',
     17: 'asado2.jpg',
-    18: 'owari'
+    18: 'owari.jpg'
 }
 
 
